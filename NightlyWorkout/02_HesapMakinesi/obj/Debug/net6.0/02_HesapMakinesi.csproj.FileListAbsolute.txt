@@ -1,0 +1,15 @@
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\bin\Debug\net6.0\02_HesapMakinesi.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\bin\Debug\net6.0\02_HesapMakinesi.deps.json
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\bin\Debug\net6.0\02_HesapMakinesi.runtimeconfig.json
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\bin\Debug\net6.0\02_HesapMakinesi.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\bin\Debug\net6.0\02_HesapMakinesi.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.AssemblyInfo.cs
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\refint\02_HesapMakinesi.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\02_HesapMakinesi.genruntimeconfig.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\NightlyWorkout\02_HesapMakinesi\obj\Debug\net6.0\ref\02_HesapMakinesi.dll
