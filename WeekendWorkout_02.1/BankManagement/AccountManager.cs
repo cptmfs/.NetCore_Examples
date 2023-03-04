@@ -51,10 +51,16 @@ namespace BankManagement
             Console.WriteLine("Lütfen Çekmek İstediğiniz Para Miktarınız Giriniz : ");
             tlAmount = int.Parse(Console.ReadLine());
             euAmount = tlAmount / 20;
+            if (balance>=euAmount)
+            {
+                balance -= euAmount;
+                Console.WriteLine($"Yeni Hesap Bakiyeniz : {balance} Euro ");
+            }
+            else
+            {
+                Console.WriteLine("Hesap Bakiyesi Yetersiz..");
+            }
 
-            balance -= euAmount;
-
-            Console.WriteLine($"Yeni Hesap Bakiyeniz : {balance} Euro ");
             Console.WriteLine("\nBir Üst Menüye Dönmek için Herhangi bir Tuşa Basınız");
             Console.ReadKey();
 
