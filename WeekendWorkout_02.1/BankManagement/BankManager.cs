@@ -134,10 +134,10 @@ namespace BankManagement
                     return BankAccount(accountManager);
                 case "2":
                     accountManager.Deposit(accountManager);
-                    return true;
+                    return BankAccount(accountManager);
                 case "3":
                     accountManager.Withdraw(accountManager);
-                    return true;
+                    return BankAccount(accountManager);
                 case "4":
                     // Menüden Çıkış..
                     return false;

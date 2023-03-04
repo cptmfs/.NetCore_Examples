@@ -19,14 +19,10 @@ namespace BankManagement
             Console.WriteLine($"Hesap Numarası : {accountNumber}");
             Console.WriteLine($"Kart Numarası  : {cardNumber}");
             Console.WriteLine($"Hesap Bakiyesi : {balance} Euro ");
-            Console.WriteLine("\nBir Üst Menüye Dönmek için Yıldıza Basınız");
-            backMenu = Console.ReadLine();
-            if (backMenu == "*")
-            {
-                return false;
-            }
-            return true;
+            Console.WriteLine("\nBir Üst Menüye Dönmek için Herhangi bir Tuşa Basınız");
+            Console.ReadKey();
 
+            return true;
 
         }
 
@@ -42,13 +38,9 @@ namespace BankManagement
             balance += euAmount;
 
             Console.WriteLine($"Yeni Hesap Bakiyeniz : {balance} Euro ");
-            Console.WriteLine("\nBir Üst Menüye Dönmek için Yıldıza Basınız");
+            Console.WriteLine("\nBir Üst Menüye Dönmek için Herhangi bir Tuşa Basınız");
+            Console.ReadKey();
 
-            backMenu = Console.ReadLine();
-            if (backMenu == "*")
-            {
-                return BankAccount(accountManager);
-            }
             return true;
         }
         public bool Withdraw(AccountManager accountManager)
@@ -63,13 +55,9 @@ namespace BankManagement
             balance -= euAmount;
 
             Console.WriteLine($"Yeni Hesap Bakiyeniz : {balance} Euro ");
-            Console.WriteLine("\nBir Üst Menüye Dönmek için Yıldıza Basınız");
+            Console.WriteLine("\nBir Üst Menüye Dönmek için Herhangi bir Tuşa Basınız");
+            Console.ReadKey();
 
-            backMenu = Console.ReadLine();
-            if (backMenu == "*")
-            {
-                return BankAccount(accountManager);
-            }
             return true;
         }
 
