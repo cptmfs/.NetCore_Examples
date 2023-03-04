@@ -2,14 +2,8 @@
 
 internal class Program:BankManager
 {
-
-    
-
-    
     private static void Main(string[] args)
     {
-
-
         bool showMenu = true;
 
         while (showMenu)

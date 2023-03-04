@@ -1,0 +1,15 @@
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.csproj.AssemblyReference.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfoInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfo.cs
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\bin\Debug\net6.0\BankManagement.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\bin\Debug\net6.0\BankManagement.deps.json
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\bin\Debug\net6.0\BankManagement.runtimeconfig.json
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\bin\Debug\net6.0\BankManagement.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\bin\Debug\net6.0\BankManagement.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\refint\BankManagement.dll
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\BankManagement.genruntimeconfig.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\WeekendWorkout_02.1\BankManagement\obj\Debug\net6.0\ref\BankManagement.dll

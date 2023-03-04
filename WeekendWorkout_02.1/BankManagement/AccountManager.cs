@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankManagement
 {
-    public class AccountManager: BankManager
+    public class AccountManager : BankManager
     {
         string backMenu;
 
@@ -14,25 +14,25 @@ namespace BankManagement
         {
             Console.Clear();
             Console.WriteLine("\t\t\t\t\t\t ------ Hesap Özeti  ------\n\n\n");
-            Console.WriteLine($"Hesap Sahibi   :{userName}");
-            Console.WriteLine($"Hesap Statüsü  :{accountType}");
-            Console.WriteLine($"Hesap Numarası :{accountNumber}");
-            Console.WriteLine($"Kart Numarası  :{cardNumber}");
-            Console.WriteLine($"Hesap Bakiyesi :{balance} Euro ");
+            Console.WriteLine($"Hesap Sahibi   : {userName}");
+            Console.WriteLine($"Hesap Statüsü  : {accountType}");
+            Console.WriteLine($"Hesap Numarası : {accountNumber}");
+            Console.WriteLine($"Kart Numarası  : {cardNumber}");
+            Console.WriteLine($"Hesap Bakiyesi : {balance} Euro ");
             Console.WriteLine("\nBir Üst Menüye Dönmek için Yıldıza Basınız");
-            backMenu= Console.ReadLine();   
-            if (backMenu=="*")
+            backMenu = Console.ReadLine();
+            if (backMenu == "*")
             {
                 return false;
             }
             return true;
 
-            
+
         }
 
         public bool Deposit(AccountManager accountManager)
         {
-            int tlAmount , euAmount;
+            int tlAmount, euAmount;
             Console.WriteLine($"Hesap Bakiyesi :{balance} Euro ");
 
             Console.WriteLine("Lütfen Yatırmak İstediğiniz Para Miktarınız Giriniz : ");

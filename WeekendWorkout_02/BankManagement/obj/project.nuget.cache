@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RsNxJtgg7GhTH9lCaljyZsC7HDG00pdbVUXaEhNXfzzh5eh7Ha48WO3MKwCjzhr2L/nIPsSmru9hyfeNpLJ6IA==",
+  "dgSpecHash": "k2XTdUjqfTUcZYbXo9H0pFt90q8YOru5W28PPeV0tkteF8T1oHcK+2iYvF0mMSBjd+Y6Vdgb+h7qBuCN0PGCEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaptan\\Documents\\GitHub\\.NetCore_Examples\\WeekendWorkout_02\\BankManangement\\BankManangement.csproj",
+  "projectFilePath": "C:\\Users\\Kaptan\\Documents\\GitHub\\.NetCore_Examples\\WeekendWorkout_02\\BankManagement\\BankManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

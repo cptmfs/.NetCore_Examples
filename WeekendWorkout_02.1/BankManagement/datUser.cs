@@ -8,7 +8,6 @@ namespace BankManagement
 {
     public class datUser
     {
-
         public object[,] datUsers = new object[,]
         {
             {"kbilisim", "cptmfs" },                       // Kullanıcı Adı  parametresi : userID
@@ -18,7 +17,7 @@ namespace BankManagement
             {"4756 2184 3643 1501","3685 4540 2114 7836" },// Kart No        parametresi : cardNumber
             {"Kontrol Bilişim", "Muhammed Ferit Şimşek" },// Hesap  Adı     parametresi : userName
             {10000 , 3000 },
-            
+
         };
 
     }

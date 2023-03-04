@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -76,7 +77,7 @@ namespace BankManagement
                 Console.ReadKey();
                 return false;
             }
-            
+
             return BankAccount(accountManager);
         }
 
@@ -88,25 +89,25 @@ namespace BankManagement
             {
                 for (int sutun = 0; sutun < _datUsers.GetLength(1); sutun++)
                 {
-                        if ((string)_datUsers[satir, sutun] == _user) // Kullanıcı adı listede yada veritabanında varmı ? 
+                    if ((string)_datUsers[satir, sutun] == _user) // Kullanıcı adı listede yada veritabanında varmı ? 
+                    {
+                        if ((string)_datUsers[satir + 1, sutun] == _pass) // varsa şifresi kullanıcı adi ile uyusuyormu ? 
                         {
-                            if ((string)_datUsers[satir + 1, sutun] == _pass) // varsa şifresi kullanıcı adi ile uyusuyormu ? 
-                            {
-                                accountType = (string)_datUsers[satir + 2, sutun]; //uyuştu ise kullanıcı hesap türü listeden al..
-                                accountNumber = (string)_datUsers[satir + 3, sutun]; // Kullanıcı Hesap No listeden al..
-                                cardNumber = (string)_datUsers[satir + 4, sutun]; // Kullanıcı Kart No listeden al..
-                                userName = (string)_datUsers[satir + 5, sutun]; // Kullanıcı Adını  listeden al..
-                                balance = (int)_datUsers[satir + 6, sutun]; // Hesap Bakiyesi Öğrenme
-                                found = true;   // Kullanıcı bulundu
-                                break;
-                            }
+                            accountType = (string)_datUsers[satir + 2, sutun]; //uyuştu ise kullanıcı hesap türü listeden al..
+                            accountNumber = (string)_datUsers[satir + 3, sutun]; // Kullanıcı Hesap No listeden al..
+                            cardNumber = (string)_datUsers[satir + 4, sutun]; // Kullanıcı Kart No listeden al..
+                            userName = (string)_datUsers[satir + 5, sutun]; // Kullanıcı Adını  listeden al..
+                            balance = (int)_datUsers[satir + 6, sutun]; // Hesap Bakiyesi Öğrenme
+                            found = true;   // Kullanıcı bulundu
+                            break;
                         }
+                    }
                 }
                 if (found == true)
                 {
                     break;
                 }
-                if (satir==2)
+                if (satir == 2)
                 {
                     break;
                 }
