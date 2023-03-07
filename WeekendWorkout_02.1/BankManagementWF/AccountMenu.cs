@@ -27,7 +27,7 @@ namespace BankManagementWF
             
             connection=new SqlConnection("Data source=(localdb)\\MSSQLLocalDB;initial catalog=bankDb;integrated security=true");
             connection.Open();
-            adapter = new SqlDataAdapter("Select *From bankData",connection);
+            adapter = new SqlDataAdapter("Select *From bankData",connection);  //Select * from tabloadi id=)+id;
             DataTable tablo = new DataTable();
             adapter.Fill(tablo);
             dgwDetail.DataSource = tablo;   
