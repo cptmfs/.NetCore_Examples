@@ -31,7 +31,7 @@ namespace BankManagementWF
             LoginForm loginForm = new LoginForm();
             connection =new SqlConnection("Data source=(localdb)\\MSSQLLocalDB;initial catalog=bankDb;integrated security=true");
             connection.Open();
-            adapter = new SqlDataAdapter("Select userName,accountType,accountNumber,cardNumber,balance From bankData where userId='"+userId+"'", connection);
+            adapter = new SqlDataAdapter("Select *From bankData",connection);
             DataTable tablo = new DataTable();
             adapter.Fill(tablo);
             dgwDetail.DataSource = tablo;
