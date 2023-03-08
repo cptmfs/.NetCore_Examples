@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.ModelConfiguration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BankManagementWF.Entities
 {
-    public class Users
+    public class Users:EntityTypeConfiguration<Users>
     {
         
         public string userId { get; set; }
@@ -16,5 +17,6 @@ namespace BankManagementWF.Entities
         public string accountNumber { get; set; }
         public string cardNumber { get; set; }
         public int balance { get; set; }
+        public virtual Users user { get; set; }
     }
 }

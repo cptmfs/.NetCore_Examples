@@ -20,7 +20,7 @@ namespace BankManagementWF
         private void btn1_Click(object sender, EventArgs e)
         {
             AccountMenu accountMenu = new AccountMenu();
-            accountMenu.ShowDialog();
+            accountMenu.Show();
             this.Close();
         }
 

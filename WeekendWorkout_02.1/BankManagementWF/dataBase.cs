@@ -16,7 +16,7 @@ namespace BankManagementWF
         SqlCommand command;
 
         SqlDataReader reader;
-        int Id = 0;
+        public int Id = 0;
         public void UserControl(string _user, string _pass, Form frm1)
         {
              

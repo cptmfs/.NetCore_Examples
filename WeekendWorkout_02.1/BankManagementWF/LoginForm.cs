@@ -12,7 +12,9 @@ namespace BankManagementWF
 {
     public partial class LoginForm : Form
     {
-        string userId, userPass;
+
+        public string userId, userPass;
+
         public LoginForm()
         {
             InitializeComponent();
@@ -25,15 +27,17 @@ namespace BankManagementWF
 
         private void btnGiris_Click(object sender, EventArgs e)
         {
-            userId=tbxUserId.Text;
-            userPass=tbxPass.Text;
+            userId = tbxUserId.Text;
+            userPass = tbxPass.Text;
             dataBase dataBase = new dataBase();
-            dataBase.UserControl(userId,userPass,this);
-            BankMenu bankMenu= new BankMenu();  
+            dataBase.UserControl(userId, userPass, this);
+            BankMenu bankMenu = new BankMenu();
             bankMenu.Show();
             this.Close();
 
-            
+            AccountMenu menu = new AccountMenu();
+            menu.userId= this.userId;
+            menu.ShowDialog();
         }
     }
 }
