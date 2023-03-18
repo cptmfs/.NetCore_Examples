@@ -27,8 +27,11 @@ namespace BankManagementWF
 
         private void btnCikis_Click(object sender, EventArgs e)
         {
+            Form1 frm = new Form1();    
+            frm.Show();
             this.Close();
         }
+
 
         private void btnGiris_Click(object sender, EventArgs e)
         {

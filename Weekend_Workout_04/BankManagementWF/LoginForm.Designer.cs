@@ -42,22 +42,22 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(19, 39);
+            this.label1.Location = new System.Drawing.Point(27, 39);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 13);
+            this.label1.Size = new System.Drawing.Size(77, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Kullanıcı Adı :";
+            this.label1.Text = "User Name :";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(63, 76);
+            this.label2.Location = new System.Drawing.Point(35, 76);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 13);
+            this.label2.Size = new System.Drawing.Size(69, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Şifre :";
+            this.label2.Text = "Password :";
             // 
             // tbxUserId
             // 
@@ -89,7 +89,7 @@
             this.btnGiris.Name = "btnGiris";
             this.btnGiris.Size = new System.Drawing.Size(83, 30);
             this.btnGiris.TabIndex = 4;
-            this.btnGiris.Text = "Giriş";
+            this.btnGiris.Text = "Login";
             this.btnGiris.UseVisualStyleBackColor = false;
             this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
             // 
@@ -103,7 +103,7 @@
             this.btnCikis.Name = "btnCikis";
             this.btnCikis.Size = new System.Drawing.Size(83, 30);
             this.btnCikis.TabIndex = 5;
-            this.btnCikis.Text = "Çıkış";
+            this.btnCikis.Text = "Exit";
             this.btnCikis.UseVisualStyleBackColor = false;
             this.btnCikis.Click += new System.EventHandler(this.btnCikis_Click);
             // 
@@ -112,11 +112,11 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(107, 9);
+            this.label3.Location = new System.Drawing.Point(119, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(117, 13);
+            this.label3.Size = new System.Drawing.Size(130, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Müşteri Giriş Ekranı";
+            this.label3.Text = "Customer Login Panel";
             // 
             // LoginForm
             // 

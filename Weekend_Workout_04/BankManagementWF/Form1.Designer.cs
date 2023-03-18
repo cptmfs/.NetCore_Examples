@@ -40,7 +40,7 @@
             this.btnGiris.Name = "btnGiris";
             this.btnGiris.Size = new System.Drawing.Size(161, 58);
             this.btnGiris.TabIndex = 2;
-            this.btnGiris.Text = "Sisteme Giriş";
+            this.btnGiris.Text = "Login";
             this.btnGiris.UseVisualStyleBackColor = false;
             this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
             // 
@@ -52,7 +52,7 @@
             this.btnCikis.Name = "btnCikis";
             this.btnCikis.Size = new System.Drawing.Size(161, 58);
             this.btnCikis.TabIndex = 3;
-            this.btnCikis.Text = "Çıkış";
+            this.btnCikis.Text = "Exit";
             this.btnCikis.UseVisualStyleBackColor = false;
             this.btnCikis.Click += new System.EventHandler(this.btnCikis_Click);
             // 

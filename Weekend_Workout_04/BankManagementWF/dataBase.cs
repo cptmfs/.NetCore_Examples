@@ -28,7 +28,7 @@ namespace BankManagementWF
             if (reader.Read())
             {
 
-                MessageBox.Show("Giriş Başarılı", "Hesap İşlemlerine Geçebilirsiniz.", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Login Successful", "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Id = reader.GetInt32(0);
                 BankMenu bmenu= new BankMenu();
                 bmenu.userId = _user;
@@ -37,7 +37,7 @@ namespace BankManagementWF
             else
             {
                 frm1.BackColor = Color.Red;
-                MessageBox.Show("Hatalı Giriş!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Login Error!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 frm1.BackColor = Color.White;
                 Form1 fr = new Form1();
                 fr.Show();
