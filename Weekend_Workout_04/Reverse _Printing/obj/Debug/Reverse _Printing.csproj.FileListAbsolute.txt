@@ -1,0 +1,11 @@
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.csproj.AssemblyReference.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse__Printing.Form1.resources
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse__Printing.Properties.Resources.resources
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.csproj.GenerateResource.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\bin\Debug\Reverse _Printing.exe.config
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\bin\Debug\Reverse _Printing.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\bin\Debug\Reverse _Printing.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Reverse _Printing\obj\Debug\Reverse _Printing.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\bin\Debug\Number_Listing.exe.config
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\bin\Debug\Number_Listing.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\bin\Debug\Number_Listing.pdb
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.csproj.AssemblyReference.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.Form1.resources
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.Properties.Resources.resources
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.csproj.GenerateResource.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.exe
+C:\Users\Kaptan\Documents\GitHub\.NetCore_Examples\Weekend_Workout_04\Number_Listing\obj\Debug\Number_Listing.pdb

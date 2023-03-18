@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WeekendWorkout_02.1",
+    "\\Weekend_Workout_04",
+    "\\Weekend_Workout_04\\Parking_Fee_Calculator"
   ],
+  "SelectedNode": "\\Weekend_Workout_04\\Parking_Fee_Calculator\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
